@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: "Shadows Into Light", cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #fff;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.App{
+  margin: 20px 15%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border:solid 2px;
+  border-radius: 8px;
+  background: linear-gradient(0deg,transparent,transparent, #0045ff);
+}
